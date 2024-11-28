@@ -1,0 +1,2 @@
+能夠local端自己mailserver給hmailserver
+
